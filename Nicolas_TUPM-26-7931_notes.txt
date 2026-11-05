@@ -1,0 +1,5 @@
+Student: Nicolas
+Student ID: TUPM-26-7931
+Seed digit: 1
+ID sum: 28
+Verification value: 36
