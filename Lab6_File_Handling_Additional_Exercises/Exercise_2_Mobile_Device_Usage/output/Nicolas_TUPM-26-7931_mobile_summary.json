@@ -1,0 +1,15 @@
+{
+    "last_name": "Nicolas",
+    "student_id": "TUPM-26-7931",
+    "seed_digit": 1,
+    "id_sum": 28,
+    "target_operating_system": "iOS",
+    "target_behavior_class": 2,
+    "total_records": 700,
+    "matching_os_records": 146,
+    "target_class_records": 32,
+    "invalid_records": 0,
+    "average_battery_drain": 872.03,
+    "average_data_usage": 451.34,
+    "exported_csv": "Nicolas_TUPM-26-7931_mobile_profile.csv"
+}

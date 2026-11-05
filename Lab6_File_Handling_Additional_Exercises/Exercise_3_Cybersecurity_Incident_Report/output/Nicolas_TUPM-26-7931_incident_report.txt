@@ -1,0 +1,62 @@
+CYBERSECURITY INCIDENT REPORT
+----------------------------------------
+Student: Nicolas
+Student ID: TUPM-26-7931
+Seed Digit: 1
+Target Year: 2016
+
+DATASET INFORMATION
+Total Records: 3000
+Incidents in Target Year: 285
+Invalid Year Records: 0
+Invalid Financial Values: 0
+
+INCIDENT COUNTS PER ATTACK TYPE
+DDoS: 53
+Malware: 41
+Man-in-the-Middle: 47
+Phishing: 55
+Ransomware: 42
+SQL Injection: 47
+
+FINANCIAL LOSS SUMMARY
+Valid Financial Records: 285
+Total Financial Loss: 13947.26 million USD
+Average Financial Loss: 48.94 million USD
+
+FIVE COSTLIEST INCIDENTS
+Rank 1:
+Country: Germany
+Attack Type: Phishing
+Target Industry: Telecommunications
+Financial Loss: 99.98 million USD
+
+Rank 2:
+Country: USA
+Attack Type: Ransomware
+Target Industry: Telecommunications
+Financial Loss: 99.88 million USD
+
+Rank 3:
+Country: Brazil
+Attack Type: Malware
+Target Industry: IT
+Financial Loss: 99.29 million USD
+
+Rank 4:
+Country: USA
+Attack Type: Ransomware
+Target Industry: Healthcare
+Financial Loss: 99.19 million USD
+
+Rank 5:
+Country: Australia
+Attack Type: Phishing
+Target Industry: Education
+Financial Loss: 98.72 million USD
+
+OUTPUT FILE INFORMATION
+Filtered CSV: output\Nicolas_TUPM-26-7931_incidents_2016.csv
+JSON Summary: output\Nicolas_TUPM-26-7931_top_five_incidents.json
+Backup JSON: backup\Nicolas_TUPM-26-7931_top_five_incidents.json
+Backup Verified: True

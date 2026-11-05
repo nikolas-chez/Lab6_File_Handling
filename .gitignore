@@ -3,3 +3,8 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/data/household_power_consumption.txt
+# Large original datasets
+data/household_power_consumption.txt
+Lab6_File_Handling_Additional_Exercises/Exercise_1_Web_Server_Logs/weblog.csv
+Lab6_File_Handling_Additional_Exercises/Exercise_2_Mobile_Device_Usage/user_behavior_dataset.csv
+Lab6_File_Handling_Additional_Exercises/Exercise_3_Cybersecurity_Incident_Report/Global_Cybersecurity_Threats_2015-2024.csv
